@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    
+}
+
+nav li {
+    display: inline-block;
+    margin:35px;
+    margin-top: 1.5%;
+    color:#10295A
+}
+
+nav a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 18px;
+    display: inline-block;
+
+    color:#10295A
+
+}
+
+nav #user{
+    margin-left: 80%;
+    margin-top: -4.5%;
+}
+
+section{
+    padding-top: 125px;
+}
+
+div {
+    color:#10295A;
+}
+
+#titulo_01{
+    font-size: 50px;
+    font-weight: 900;
+    text-align: center;
+}
+
+
+#veja_mais a {
+    text-decoration: none;
+    color:#10295A;
+}
+
+#veja_mais {
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+    margin-right: 30px;
+}
+
+#vitrine{
+    padding-top: 50px;
+    display: inline-block;
+    margin-left: 120px;
+}
+
+
+
+
